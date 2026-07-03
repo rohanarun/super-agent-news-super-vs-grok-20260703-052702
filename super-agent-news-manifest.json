@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[moneycontrol.com](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPS3ZTMklnZmhoNlFmclA4UFVXcm5kMXctMnhTOFdJWGJweWUyRlBBenFUZVI2YVVKR3hwMFZLLUt6X1JJYzlCZXctN1ZBMWVEaXd2Sm5hc05IOWtNT3M3M3NubFRSQVhPdXItU1FmNjZUVTE4bmhFdU5IekoxdlJ3SUpIbEtQME1SdFVpbXRCTVlmMUU5UVQ1NU1BZS1Tb0otN0xpLWxCZkppTUFoYkxpV1h3dUNzbDRnd2FTR2ZlOThTcFpDODIwbTRwMm9SenMtRG8zclJ2LWJtSU9IZDZ6eGowNmd0WU9uRWQ1emlfUlFzQdIB9wFBVV95cUxPZ1FBS3BBRzlVOE56bmhEWDZpNTlSeHRiZFh5aUt4WDk1NkVCQ3FTRkpicERlMGJEREQ5UjBYSU1PNGdFSEp0ZV9xSnlNVVU0ZTVlcVg3OHF3dnVJN2hBVEFDYUs0LW1kajZnMHFiS1JqUDllaDV0VUd0dUh2MU05UmZVbV93VjlKdDlndm5IRS1ZcGotckxDYlFLZzRXUFlueTdrOUdQTlFVX09xSUJKX3FqTmtFQjVZZ2xING1GczE3OU80VklkR3c3bVR0SFZuU1ctY2tlLXcyOWpDMTNWTk9ZV0JjSUNwQ2FFVHpfSlJUMGhTNTM0)",
+    "[cryptobriefing.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE1vTl9GdF90MGUzLUwwb0JVdzZQMXB1MGdjZmp5a0xBUXBLbGczNDY4eVc2ZjRHV3JPYmpBbnVfOWdIeHVSV005RkZ5UVl4emN3Nk8wMDlDWkJhTlItcWV0YkJNdFM2RmFUNFh0OVIwSVdqemNTMkE0eU9n)",
+    "[testingcatalog.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUkloeTBmMkFaZTBJVEF3TWFFWmoxVGpTLVRrblYzNU40NFJnejAwQTBWTVk4TEF6NTh1RmRYM01WSGkwLTE2QW9XQ29LQTRzd3FXRXJTSm52VlNnY0JHUTlBZ3NjaGFSZjl1ZlJwWENRNGk0UG96d1JxazUxOTFuRnBNVXA)",
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0)"
+  ],
+  "design_plan": "rng=42;AIDA=pass;hero_lines=2-3@1120px;bento_density=grid-auto-flow:dense;label_sweep=ok;button_contrast=black/white verified",
+  "generated_at": "2026-07-03T05:27:09.489571+00:00",
+  "headline": "Super vs Grok \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Grok",
+    "competitor": "Grok",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Grok. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Grok AI agent",
+      "Grok AI assistant",
+      "Grok automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-grok",
+    "title": "Super vs Grok"
+  },
+  "summary": "Grok is an opinionated, real\u2011time assistant with growing agent features. Super is built for people who want a personal AI agent that actually operates a computer \u2014 and reuses a computer-use cache so repeated workflows get faster and cheaper over time."
+}
